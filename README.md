@@ -23,7 +23,7 @@ Then you can run this app from the main directory:
 
 ## TODO
 - [x] Change hard-coded Postgres connection to env variable
-- [ ] Utilize Kotlin Native
+- [x] ~~Utilize Kotlin Native~~ - no support for Postgres yet 
 
 ## Other information
 ### Tasmota metrics
